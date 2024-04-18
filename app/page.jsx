@@ -1,14 +1,23 @@
+
 import Image from 'next/image'
 import React from 'react'
 import Nav from './components/nav'
 import Link from 'next/link'
 
 
+
+export const metadata = {
+  title: "รับทำโฆษณาFacebook Ads สายเทา",
+  description: "รับทำโฆษณาFacebook Ads สายเทา เราพร้อมที่จะทำโฆษณา Google Ads สายเทาให้คุณเติบโตและเป็นที่รู้จักในตลาด",
+
+};
+
 export default async function Home() {
- 
+
 
   return (
     <>
+   
       <div className="container-fluid">
        <Nav/>
        <div className="cut"></div>
