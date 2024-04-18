@@ -33,3 +33,17 @@ footer {
   img.bounce {
     animation: bounce 3s infinite;
   }
+
+
+  .fbimg {
+   width: 1300px;
+   height: auto;
+  }
+
+  @media screen and (max-width:600px) {
+    .fbimg {
+      width: 100%;
+      height: auto;
+     }
+    
+  }

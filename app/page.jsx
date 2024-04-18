@@ -57,7 +57,7 @@ export default async function Home() {
     </Link>
     </div>
     <div className="container text-center">
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (1).jpg' width={1300} height={750} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (1).jpg' width={1300} height={750} alt='ads' className='fbimg'/> 
     <p> <strong>รับทำโฆษณาFacebook Ads (สายเทา)</strong>ong ในปัจจุบัน Google และ Facebook หรือช่องทางการทำตลาดออนไลน์ต่างๆได้เปลี่ยนไปอย่างมาก โดยที่เน้นเรื่องของ Content เป็นหลัก พวกเขาสร้างกฏเกณฑ์มากมายในการลิมิตผู้ใช้งานทำการตลาดให้ตรงตามที่เขาต้องการ ส่งผลให้เกิดปัญหาการยิงแอดไม่ผ่าน แอคเค้าโดนแบน และทำให้ท่านไม่สามารถทำการตลาดได้อย่างตรงตามแผนการ การยิงแอดสายเทาจึงเป็นสิ่งจำเป็นอย่างมากที่ทุกท่านจะต้องเรียนรู้และใช้บริการ เพื่อนำไปใช้ให้เกิดประโยชน์กับการทำการตลาดที่ตรงกลุ่มเป้าหมาย และยั่งยืน คุ้มค่ากับการลงทุนเป็นอย่างยิ่ง
 
 </p>
@@ -65,7 +65,7 @@ export default async function Home() {
     
     <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
     </Link>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (2).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (2).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
    <p> <strong>รับทำโฆษณาFacebook Ads สายเทา
 </strong> 
 เปิดโอกาสสู่ความสำเร็จกับโฆษณา Facebook Ads สายเทา รับทำโฆษณาFacebook Ads สายเทา เราพร้อมที่จะทำโฆษณา Google Ads สายเทาให้คุณเติบโตและเป็นที่รู้จักในตลาด! เราเชี่ยวชาญในการสร้างและจัดการแคมเปญโฆษณาที่เน้นกลุ่มเป้าหมายสายเทาของคุณ ด้วยการวางกลยุทธ์ที่เน้นความสนใจและพฤติกรรมของกลุ่มเป้าหมาย เราจะช่วยให้คุณได้ผลตอบรับที่ดีและเพิ่มยอดขาย หรือช่วยเพิ่มจำนวนลูกค้าให้กลับ ธุรกิจคุณอย่างมีประสิทธิภาพ! ติดต่อเราเพื่อเริ่มต้นแคมเปญโฆษณา Google Ads สายเทาและยกระดับธุรกิจของคุณวันนี้!
@@ -77,11 +77,11 @@ export default async function Home() {
     
     <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
     </Link>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (3).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (3).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
     <p><strong>รับโฆษณา Facebook สายเทา</strong> โฆษณาFacebookสายเทา หรือ การซื้อโฆษณา Facebook คือระบบโฆษณาของเว็บไซต์ Facebook และ Instagram ที่ทำให้ธุรกิจสามารถเข้าถึงผู้ใช้งานแพลตฟอร์มได้มากขึ้นผ่านค่าใช้จ่ายโฆษณา โฆษณา Facebook โฆษณาFacebookสายเทา มีจุดเด่นอยู่ที่ระบบการเลือกกลุ่มเป้าหมาย ซึ่งทำให้ธุรกิจเข้าถึงกลุ่มลูกค้าที่มีแนวโน้มในการซื้อมากขึ้น เราต้องเข้าใจก่อนว่าในประเทศไทยมีประชากร 70 ล้านคน และมีผู้ใช้งานคนไทยใน Facebook มากถึง 50 ล้านAcc</p>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (4).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (4).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
     <p><strong>รับโฆษณา Facebook สายเทา</strong>ซึ่งระบบโฆษณาแบบนี้ถือว่ามีประโยชน์มาก โดยเฉพาะอย่างยิ่งหากเราเทียบกับการทำโฆษณาแบบสมัยก่อน อย่างการซื้อโฆษณาทีวีหรือโฆษณาวิทยุ ที่เราต้องทำโฆษณามาหนึ่งอย่าง เพื่อลูกค้าทุกคน เราเป็นผู้ให้บริการ รับทำโฆษณาFacebookสายเทา โดยทีมผู้เชี่ยวชาญด้าน โฆษณา โฆษณาFacebookสายเทา และการตลาดออนไลน์ เราให้ความสำคัญกับการวัดผลลัพธ์จากโฆษณา เพื่อตอบสนองความต้องการของลูกค้าให้ได้ดีที่สุด</p>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (5).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (5).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
     <p><strong>รับโฆษณา Facebook สายเทา</strong>รับโฆษณา Facebook สายเทา รับทำโฆษณาFacebook Ads สายเทา เราพร้อมที่จะทำโฆษณา Google Ads สายเทาให้คุณเติบโตและเป็นที่รู้จักในตลาด!
 
 </p>
@@ -89,14 +89,14 @@ export default async function Home() {
     
     <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
     </Link>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (6).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (6).jpg' width={1300} height={550} alt='ads' className='fbimg'/> 
    <p><strong>รับโฆษณา Facebook สายเทา</strong> เราเชี่ยวชาญในการสร้างและจัดการแคมเปญโฆษณาที่เน้นกลุ่มเป้าหมายสายเทาของคุณ
 
 </p> <Link className="line" href="https://lin.ee/JwrDPgA">
     
     <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
     </Link>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (10).jpg' width={1300} height={850} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (10).jpg' width={1300} height={850} alt='ads' className='fbimg'/> 
     <p><strong>รับโฆษณา Facebook สายเทา</strong> เราจะช่วยให้คุณได้ผลตอบรับที่ดีและเพิ่มยอดขาย หรือช่วยเพิ่มจำนวนลูกค้าให้กลับ ธุรกิจคุณอย่างมีประสิทธิภาพ! ติดต่อเราเพื่อเริ่มต้นแคมเปญโฆษณา Google Ads สายเทาและยกระดับธุรกิจของคุณวันนี้!
 
 </p>
@@ -104,7 +104,7 @@ export default async function Home() {
     
     <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
     </Link>
-    <Image src='/facebook_ads/โฆษณา_FaceBook_Ads_สายเทา (11).jpg' width={1300} height={750} alt='ads' className='fbimg'/> 
+    <Image src='/imge/โฆษณา_FaceBook_Ads_สายเทา (11).jpg' width={1300} height={750} alt='ads' className='fbimg'/> 
 
 
        
