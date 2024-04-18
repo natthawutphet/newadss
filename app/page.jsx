@@ -39,7 +39,7 @@ export default async function Home() {
     </div>
     <div className="abuot container">
     <div className="text-center">
-    <Image src='/img/facebook.png' width={150} height={150} alt='ads'/> 
+    <Image src='/img/Facebook.png' width={150} height={150} alt='ads'/> 
     </div>
       <h3>รายละเอียดบริการ <strong>รับทำโฆษณาFacebook Ads สายเทา</strong></h3>
       <p>ค่าบริการ เหมาจ่ารายเดือนเพียงเดือนละ 9,900 บาท ไม่มีค่าใช้ค่าใดใดเพิ่มเติมทั้งสิน</p>
